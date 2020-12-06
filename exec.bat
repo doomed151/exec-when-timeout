@@ -1,0 +1,1 @@
+echo Run successfully > out.txt
